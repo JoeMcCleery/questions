@@ -3,5 +3,5 @@
  
 ```
 pip3 install -r requirements.txt
-py questions.py
+py questions.py corpus
 ```
